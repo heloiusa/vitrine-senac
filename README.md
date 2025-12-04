@@ -19,14 +19,14 @@ Monitor: [Muriel Bezerra](https://www.linkedin.com/in/muriel-bezerra-690a432a9/)
 
 **O Techguide tem como propósito atuar como um tutor que guia o usuário pelos conceitos básicos de lógica em Python (variáveis, condicionais, etc.), contruibuindo para o aprendizado e assimilação de ingressantes na introdução a lógica de programação.**
 
-🔗 [Pode me acessar aqui](url para acessar o projeto  )
+🔗 [Pode me acessar aqui](https://typebot.co/my-typebot-7m1fzi9)
 
 🔗 [Veja o meu processo de criação](https://www.canva.com/design/DAG50vxlndM/BWn8IgrkyGnhoF3uB2g-Kw/edit?utm_content=DAG50vxlndM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Desenvolvedores:
 - [Heloisa Costa](https://www.linkedin.com/in/heloisa-costa-5899912aa/)
 - [João Pedro](https://www.linkedin.com/in/jo%C3%A3o-pedro-88a8a4395/)
-- [Kamila Estefane](Link do seu linkedin)
+- [Kamila Estefane](https://www.linkedin.com/in/kamila-estefane-023362384/)
 - [Guilherme Antonino](https://www.linkedin.com/in/guilherme-antonino-93404b3a0/)
 - [Yasmin Camille](https://www.linkedin.com/in/yasmin-alvarez-b7b08b236/)
 

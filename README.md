@@ -15,24 +15,25 @@ Monitor: [Muriel Bezerra](https://www.linkedin.com/in/muriel-bezerra-690a432a9/)
 
 ## 1 - Techguide
 
-![banner] ( url da Imagem da Persona )
+![banner](https://github.com/heloiusa/vitrine-senac/blob/main/img/techguide.png)
 
-**Texto explicativo sobre o chat. **
+**O Techguide tem como propósito atuar como um tutor que guia o usuário pelos conceitos básicos de lógica em Python (variáveis, condicionais, etc.), contruibuindo para o aprendizado e assimilação de ingressantes na introdução a lógica de programação.**
 
 🔗 [Pode me acessar aqui](url para acessar o projeto  )
 
-🔗 [Veja o meu processo de criação](url do processo, exemplo: fluxograma)
+🔗 [Veja o meu processo de criação](https://www.canva.com/design/DAG50vxlndM/BWn8IgrkyGnhoF3uB2g-Kw/edit?utm_content=DAG50vxlndM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Desenvolvedores:
-- [Nome]Link do seu linkedin)
-- [Nome](Link do seu linkedin)
-- [Nome](Link do seu linkedin)
-
+- [Heloisa Costa](https://www.linkedin.com/in/heloisa-costa-5899912aa/)
+- [João Pedro](https://www.linkedin.com/in/jo%C3%A3o-pedro-88a8a4395/)
+- [Kamila Estefane](Link do seu linkedin)
+- [Guilherme Antonino](https://www.linkedin.com/in/guilherme-antonino-93404b3a0/)
+- [Yasmin Camille](https://www.linkedin.com/in/yasmin-alvarez-b7b08b236/)
 
 
 ## 2 - Codiguinho
 
-![banner] ( url da Imagem da Persona )
+![banner]( url da Imagem da Persona )
 
 **Texto explicativo sobre o chat. **
 
@@ -41,7 +42,7 @@ Desenvolvedores:
 🔗 [Veja o meu processo de criação](url do processo, exemplo: fluxograma)
 
 Desenvolvedores:
-- [Nome]Link do seu linkedin)
+- [Nome](Link do seu linkedin)
 - [Nome](Link do seu linkedin)
 - [Nome](Link do seu linkedin)
 
@@ -49,7 +50,7 @@ Desenvolvedores:
 
 ## 3 - Dogui
 
-![banner] ( url da Imagem da Persona )
+![banner]( url da Imagem da Persona )
 
 **Texto explicativo sobre o chat. **
 
